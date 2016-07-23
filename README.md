@@ -7,6 +7,6 @@ Spider parameters:
 * signatory: Signatory (owner number) of the bank account
 * pin: Bank account pin
 * account_number: Number of the bank account, with '0' referring to the main account (usually sufficient)
-* date_from: Start date of getting transaction data
-* date_to: End date of getting transaction data
+* date_from: Start date of transaction data
+* date_to: End date of transaction data
 * target_file: Path in the file system where the CSV containing the transactions will be saved to
